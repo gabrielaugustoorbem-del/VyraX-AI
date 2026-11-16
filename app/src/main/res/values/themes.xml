@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.VyraX" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/vyrax_background</item>
+        <item name="android:textColorPrimary">#FFFFFF</item>
+        <item name="android:textColorSecondary">#B3B3B3</item>
+        <item name="android:colorAccent">@color/vyrax_accent</item>
+        <item name="android:statusBarColor">@color/vyrax_background</item>
+        <item name="android:navigationBarColor">@color/vyrax_background</item>
+    </style>
+</resources>
